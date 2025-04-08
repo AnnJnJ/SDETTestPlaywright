@@ -3,5 +3,5 @@
 
 ## 📦 Installation
 
-git clone
+git clone: https://github.com/AnnJnJ/SDETTestPlaywright.git
 npm install
