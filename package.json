@@ -1,0 +1,20 @@
+{
+  "name": "sdettestplaywright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0",
+    "dotenv": "^16.4.7"
+  },
+  "dependencies": {
+    "uuid": "^11.1.0"
+  }
+}

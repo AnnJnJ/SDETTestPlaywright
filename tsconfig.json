@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+
+    /* Projects */
+    "target": "es2016",    
+    "rootDir": "src",                              /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "module": "commonjs",                                /* Specify what module code is generated. */
+    "sourceMap": true,
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "esModuleInterop": true /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */,
+    "skipLibCheck": true /* Skip type checking of declaration files. */,
+    "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */,
+    "isolatedModules": false,
+    "strictFunctionTypes": true,
+    "resolveJsonModule": true,
+    "noUnusedLocals": true,
+    "noImplicitAny": true,
+    "declaration": true
+  },
+  "include": ["src/"]
+}

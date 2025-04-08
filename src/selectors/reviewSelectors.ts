@@ -1,0 +1,23 @@
+export const ReviewData = {
+    ReviewPage1: "Lets get to know you!",
+    ReviewPage2: "Extracurricular Activities",
+    ReviewPage3: "High School Information",
+    ReviewPage4: "Essay",
+    PersonalinfoEdit: "1.Lets get to know you! Edit",
+    ExtraCurricularEdit: "2.Extracurricular Activities Edit",
+    HighSchoolInfoEdit: "3.High School Information Edit",
+    EssayEdit: "4.Essay Edit",
+    Submit: "Submit",
+    ApplicationSubmit: "Application submitted",
+    ListItems: "li.mantine-List-item",
+    StreetAddress: "Street Address",
+    AdditionalStreetAddress: "Additional Street Address",
+    State: "State (Full)",
+    City: "City",
+    ZipCode: "Zip Code",
+    Country: "Country",
+    AccordionControl :".mantine-Accordion-control",
+    AccordionContent: ".mantine-Accordion-content",
+    AccordionRoot: ".mantine-Accordion-root",
+    AccordionItem: ".mantine-Accordion-item"
+}
